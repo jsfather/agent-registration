@@ -1,3 +1,10 @@
+@import './assets/fonts/vazirmatn.css';
+
 :root {
   --primary: #008e9c;
+  direction: rtl;
+}
+
+* {
+  font-family: 'Vazirmatn', sans-serif;
 }
